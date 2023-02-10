@@ -114,4 +114,4 @@ layout = [
 #GUI LAYOUT=========================================================
 
 #Windows creation
-window = sg.Window('Settings', layout ,right_click_menu=right_click_menu_def, right_click_menu_tearoff=True, grab_anywhere=True, resizable=True, margins=(0,0), use_custom_titlebar=False, finalize=False, keep_on_top=True, return_keyboard_events=True)
+window = sg.Window('OpenCV Demo', layout ,right_click_menu=right_click_menu_def, right_click_menu_tearoff=True, grab_anywhere=True, resizable=True, margins=(0,0), use_custom_titlebar=False, finalize=False, keep_on_top=True, return_keyboard_events=True)
