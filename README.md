@@ -37,7 +37,7 @@ GUI event and values are passed to the main process using a queue.
 The gui key does not follow the naming convention (**-NAME-**)of PySimpleGUI. Instead, i'm using a two word **group-topic** system that allows to easily differentiate and react to the various events (*see  match eventsplit[0] and match eventsplit[1] in the code*).
 
 ## Demo
-In my laboratory, I work with microalgae, and the video displayed in the demo showcases cells of *Euglena gracilis*. However, this template can be adapted for use with any type of video. 
+As i'm working with microalgae in my lab the video displayed in the demo showcases cells of *Euglena gracilis*. However, this template can be adapted for use with any type of video. 
 
 ### Play/pause video
 <img src="https://github.com/n3odym3/OpenCV_PySimpleGUI_Template/blob/main/img/play_pause_video.gif" width="40%">
